@@ -5,4 +5,4 @@
 ## Task 2: Calculator -> [Here](https://arpansingh8888.github.io/CodeAlpha_Project_tasks/Task2_Calculator)
 ## Task 4: Music Player -> [Here](https://arpansingh8888.github.io/CodeAlpha_Project_tasks/Task4_Music%20Player/)
 
-/I have made the task numbering as per the task pdf provided/
+
