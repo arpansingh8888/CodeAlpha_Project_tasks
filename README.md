@@ -1,8 +1,8 @@
 # Tasks for Frontend Development Internship at [CodeAlpha](https://www.linkedin.com/company/codealpha/)
-### Duration: 15/jul/2024 to 15/Aug/2024
+### Duration: 15/Jan/2025 to 15/Feb/2025
 
-## Task 1: Image Gallery -> [Here](https://github.com/Kaameshwar-K/codealpha_tasks/tree/main/Task1_Image%20Gallery)
-## Task 2: Calculator -> [Here](https://github.com/Kaameshwar-K/codealpha_tasks/tree/main/Task2_Calculator)
-## Task 4: Music Player -> [Here](https://github.com/Kaameshwar-K/codealpha_tasks/tree/main/Task4_Music%20Player)
+## Task 1: Image Gallery -> [Here](https://arpansingh8888.github.io/CodeAlpha_Project_tasks/Task1_Image Gallery)
+## Task 2: Calculator -> [Here](https://arpansingh8888.github.io/CodeAlpha_Project_tasks/Task2_Calculator)
+## Task 4: Music Player -> [Here](https://arpansingh8888.github.io/CodeAlpha_Project_tasks/Task4_Music Player)
 
-*i have made the task numbering as per the task pdf provided*
+/I have made the task numbering as per the task pdf provided/
